@@ -1,1 +1,1 @@
-# Image_Classification : Tutorial from Greatlearning
+# Image_Classification : Practice example Tutorial from Greatlearning
